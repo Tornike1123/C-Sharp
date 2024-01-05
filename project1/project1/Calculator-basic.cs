@@ -1,13 +1,13 @@
-﻿using System;
+﻿//using System;
 
-namespace project1
+//namespace project1
 
     //console.readline შეგვიძლია შევიყვანოთ მხოლოდ სტრინგი და ამიტომაც ვაკონვერტირებთ როგორც ნამბერს.
-{
-	 class Calculator
-	{
-        static void Main(string[] args)
-        {
+//{
+	// class Calculator
+	//{
+ //       static void Main(string[] args)
+ //       {
             //version 1 converting
             //int num = Convert.ToInt32("34");
             //Console.WriteLine(num);
@@ -22,7 +22,7 @@ namespace project1
             //         Console.WriteLine("result: " + (number1 + number2));
 
 
-        }
-	}
+//        }
+//	}
 
-}
+//}
