@@ -27,5 +27,5 @@
 //    Console.WriteLine(numbArr[i]);
 //}
 
-//toko .
+
 //Console.ReadLine();
