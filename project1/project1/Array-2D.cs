@@ -12,7 +12,10 @@ namespace project1
                 {5,6 },
 
             };
-			Console.WriteLine(numberGrid[0,1]);
+			foreach (int item in numberGrid)
+			{
+				Console.WriteLine(item);
+			}
 			Console.ReadLine();
 		}
 	}
