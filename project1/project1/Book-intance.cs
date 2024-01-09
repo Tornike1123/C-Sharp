@@ -5,17 +5,11 @@ namespace project1
 	{
 		static void Main(string[] args)
 		{
-			Book hp = new Book();
-			hp.title = "Harry Potter";
-			hp.author = "JK ROWLING";
-			hp.pages = 400;
+			Book hp = new Book("Harry Potter", "JK ROWLING", 400);
 			Console.WriteLine(hp.title);
 			
 
-            Book hobbit = new Book();
-            hobbit.title = "Hobbit";
-            hobbit.author = "Tolkin";
-            hobbit.pages = 700;
+            Book hobbit = new Book("Hobbit", "Tolkin", 700);
             Console.WriteLine(hobbit.title);
 
 
