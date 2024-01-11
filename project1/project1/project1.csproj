@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Object-methods\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Object-methods\" />
+  </ItemGroup>
 </Project>
