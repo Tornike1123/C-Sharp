@@ -11,10 +11,12 @@
     <None Remove="Object-methods\" />
     <None Remove="Setters-and-Getters\" />
     <None Remove="Static-attribut\" />
+    <None Remove="Inheritance\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Object-methods\" />
     <Folder Include="Setters-and-Getters\" />
     <Folder Include="Static-attribut\" />
+    <Folder Include="Inheritance\" />
   </ItemGroup>
 </Project>
