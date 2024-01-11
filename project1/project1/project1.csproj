@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="Object-methods\" />
+    <None Remove="Setters-and-Getters\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Object-methods\" />
+    <Folder Include="Setters-and-Getters\" />
   </ItemGroup>
 </Project>
